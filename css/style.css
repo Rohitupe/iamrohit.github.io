@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Name Section  */
+.intro-text {
+  font-size: 45px;
+}
+.name-text {
+  font-size: 60px;
+}
+.profile-text {
+  font-weight: bold;
+  text-decoration: underline;
+  font-size: 24px;
+}
+.social {
+  margin-bottom: 10px;
+}
+.social > a > i {
+  font-size: 19px;
+  color: blue;
+  padding: 5px 5px;
+}
+.social > a > i:hover {
+  color: gray;
+}
+
+/* Skills Section */
+#skill-image {
+  border-radius: 50%;
+  padding-bottom: 8px;
+  width: 100px;
+  height: 100px;
+}
+
+/* About Me */
+.img {
+  width: 400px;
+}
+
+/* Contact Me */
+.contact {
+  max-width: fit-content;
+  padding: 30px 0;
+  align-content: center;
+  align-self: center;
+  margin: 0 auto;
+}
+.contact > p > i {
+  font-size: 22px;
+  padding-right: 5px;
+}
+.mail-to {
+  color: white;
+  text-decoration: none;
+}
+.mail-to:hover {
+  color: black;
+  text-decoration: underline;
+}
+.call-to {
+  color: white;
+  text-decoration: none;
+}
+.call-to:hover {
+  color: black;
+  text-decoration: underline;
+}
+
+/* footer area */
+footer.footer-area {
+  padding: 2rem 0;
+}
+footer.footer-area .social h5 {
+  font: normal 500 23px/30px;
+}
+footer.footer-area .social a > i {
+  font-size: 22px;
+  padding: 1rem;
+  color: blue;
+}
+footer.footer-area .social a:hover > i {
+  color: gray;
+}

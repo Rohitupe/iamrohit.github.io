@@ -1,0 +1,21 @@
+@media only screen and (max-width: 992px) {
+  /* Experience */
+  .row-spacing > div {
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  /* Name Section  */
+  .intro-text {
+    font-size: 24px;
+  }
+  .name-text {
+    font-size: 30px;
+  }
+  .profile-text {
+    font-weight: normal;
+    text-decoration: overline;
+    font-size: 15px;
+  }
+}
