@@ -1,4 +1,4 @@
-# portfolio_rohit
+# IamRohit
 MY Own Portfolio website
 
-<h3>URL : <a href="/">Rohit Tupe</a> </h3>
+<h3>URL : <a href="https://rohitupe.github.io/iamrohit.github.io/">Rohit Tupe</a></h3>
