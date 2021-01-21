@@ -38,12 +38,22 @@
   width: 100px;
   height: 100px;
 }
-
+#skills-description {
+  cursor: pointer;
+}
+#skills-description > p {
+  display: none;
+  cursor: pointer;
+}
+#skills-description:hover > p {
+  display: block;
+  cursor: pointer;
+}
 /* About Me */
 .img {
   width: 400px;
 }
-.about-content{
+.about-content {
   margin-top: 100px;
 }
 

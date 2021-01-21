@@ -3,8 +3,11 @@
   .row-spacing > div {
     margin-top: 15px;
   }
-  .about-content{
+  .about-content {
     margin-top: 0px;
+  }
+  #skills-description > p {
+    display: block;
   }
 }
 
