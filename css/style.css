@@ -38,7 +38,7 @@
   width: 100px;
   height: 100px;
 }
-#skills-description {
+/* #skills-description {
   cursor: pointer;
 }
 #skills-description > p {
@@ -48,7 +48,8 @@
 #skills-description:hover > p {
   display: block;
   cursor: pointer;
-}
+} */
+
 /* About Me */
 .img {
   width: 400px;
